@@ -1,0 +1,15 @@
+name = "Interactive"
+uuid = "e7f299b6-04e6-47a8-818e-7a37734915ab"
+authors = ["le-schwa <84086902+le-schwa@users.noreply.github.com>"]
+version = "0.1.0"
+
+[deps]
+Blink = "ad839575-38b3-5650-b840-f874b8c74a25"
+DifferentialEquations = "0c46a032-eb83-5123-abaf-570d42b7fbaa"
+DynamicalSystems = "61744808-ddfa-5f27-97ff-6e42cc95d634"
+GLMakie = "e9467ef8-e4e7-5192-8a1a-b1aee30e663a"
+Interact = "c601a237-2ae4-5e1e-952c-7a85b0c7eef1"
+InteractiveDynamics = "ec714cd0-5f51-11eb-0b6e-452e7367ff84"
+LaTeXStrings = "b964fa9f-0449-5b57-a5c2-d3ea65f4040f"
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
+WGLMakie = "276b4fcb-3e11-5398-bf8b-a0c2d153d008"
